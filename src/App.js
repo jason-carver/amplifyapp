@@ -68,7 +68,7 @@ function App() {
   return ( <
     div className = "App" >
     <
-    h1 > My Notes App < /h1> <
+    h1 > My Note App < /h1> <
     p > powered by the great mind of Jason the Great!! < /p> <
     input onChange = {
       e => setFormData({
